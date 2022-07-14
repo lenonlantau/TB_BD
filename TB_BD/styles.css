@@ -56,15 +56,15 @@ h1, h2, h3, h4, {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
+#gift-img-happy:active {
     background-image: url("images/happy.webp");
 }
 
-#gift-img-genius:hover {
+#gift-img-genius:active {
     background-image: url("images/genial.webp");
     background-position: -10px;
 }
 
-#gift-img-cheers:hover {
+#gift-img-cheers:active {
     background-image: url("images/cheers.webp");
 }
